@@ -1,0 +1,22 @@
+/* CSS Document */
+
+body { background-image: -webkit-gradient(
+	linear,
+	left top,
+	left bottom,
+	color-stop(0, #F9FCFC),
+	color-stop(0, #FACDFC),
+	color-stop(0.34, #C4EAF5),
+	color-stop(0.49, #B7F7BB),
+	color-stop(0.71, #FAE4BB),
+	color-stop(1, #F7ACB9),
+	color-stop(1, #FDFFA3),
+	color-stop(1, #FFFFFF)
+);
+background-image: -o-linear-gradient(bottom, #F9FCFC 0%, #FACDFC 0%, #C4EAF5 34%, #B7F7BB 49%, #FAE4BB 71%, #F7ACB9 100%, #FDFFA3 100%, #FFFFFF 100%);
+background-image: -moz-linear-gradient(bottom, #F9FCFC 0%, #FACDFC 0%, #C4EAF5 34%, #B7F7BB 49%, #FAE4BB 71%, #F7ACB9 100%, #FDFFA3 100%, #FFFFFF 100%);
+background-image: -webkit-linear-gradient(bottom, #F9FCFC 0%, #FACDFC 0%, #C4EAF5 34%, #B7F7BB 49%, #FAE4BB 71%, #F7ACB9 100%, #FDFFA3 100%, #FFFFFF 100%);
+background-image: -ms-linear-gradient(bottom, #F9FCFC 0%, #FACDFC 0%, #C4EAF5 34%, #B7F7BB 49%, #FAE4BB 71%, #F7ACB9 100%, #FDFFA3 100%, #FFFFFF 100%);
+background-image: linear-gradient(to bottom, #F9FCFC 0%, #FACDFC 0%, #C4EAF5 34%, #B7F7BB 49%, #FAE4BB 71%, #F7ACB9 100%, #FDFFA3 100%, #FFFFFF 100%);
+}
+
