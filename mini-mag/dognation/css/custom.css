@@ -16,10 +16,12 @@ body {
 header {
 	height: 10em; /* 16*6=96px */
 	text-align: center;
-	padding: 2em;
+	padding: 1em;
 	margin-bottom: .5em;
 	background: #FF5722;
 	}
+
+#header-banner {background: #fff;}	
 	
 #container {
 	width: 80%;
