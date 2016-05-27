@@ -91,6 +91,7 @@ img.right {
 	height: 150px;
 	margin: 0 auto;
 	background: url(images/dog-banner.jpg) no-repeat;
+
 }
 
 #header h1, #header p {
@@ -102,10 +103,11 @@ img.right {
 
 #header h1 {
 	float: left;
-	padding: 58px 0px 0px 10px;
+	padding: 50px 0px 0px 10px;
 	text-transform: lowercase;
 	line-height: 200px;
 	font-size: 72px;
+    
 }
 
 #header p {
@@ -113,6 +115,7 @@ img.right {
 	padding: 102px 0 0 0;
 	text-transform: uppercase;
 	font: bold 11px "Trebuchet MS", Arial, Helvetica, sans-serif;
+    
 }
 
 #header p a {
@@ -122,13 +125,16 @@ img.right {
 #header a {
 	border: none;
 	color: #FF5722;
+    
 }
 
 /* Page */
 
 #page {
-	width: 760px;
+	width: 800px;
 	margin: 0 auto;
+    
+   
 }
 
 /* Content */
@@ -149,28 +155,34 @@ img.right {
 	width: 200px;
 	padding: 0 20px 0 0;
 	border-right: 1px dotted #DCDCDC;
+    
 }
 
 #sidebar ul {
 	margin: 0;
 	padding: 0;
 	list-style: none;
+    
 }
 
 #sidebar li {
+    
 }
 
 #sidebar li ul {
+    
 }
 
 #sidebar li li {
 	padding: 5px 10px;
 	background: url(images/img1.jpg) no-repeat 0 10px;
 	border-top: 1px dotted #DCDCDC;
+    
 }
 
 #sidebar li li.first {
 	border-top-color: #FFFFFF;
+    
 }
 
 #sidebar h2 {
@@ -182,10 +194,12 @@ img.right {
 
 #sidebar a {
 	border: none;
+    
 }
 
 #sidebar a:hover {
 	border-bottom: 1px dotted #666666;
+   
 }
 
 /* Footer */
